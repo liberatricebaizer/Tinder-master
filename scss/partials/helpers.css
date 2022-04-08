@@ -1,0 +1,14 @@
+.clearfix:before, .clearfix:after {
+  content: " ";
+  display: block;
+}
+
+.clearfix:after {
+  clear: both;
+}
+
+.wrapper {
+  width: 760px;
+  max-width: 60%;
+  margin: 0 auto;
+}/*# sourceMappingURL=helpers.css.map */
